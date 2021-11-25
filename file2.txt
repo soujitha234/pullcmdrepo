@@ -1,0 +1,3 @@
+this is file2
+pls take the info from file1
+okay bye
